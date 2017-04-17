@@ -14,6 +14,7 @@
 		E1EB077C1EA4C00700D9AA81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1EB077B1EA4C00700D9AA81 /* Assets.xcassets */; };
 		E1EB077F1EA4C00700D9AA81 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1EB077D1EA4C00700D9AA81 /* LaunchScreen.storyboard */; };
 		E1EB078A1EA4C00700D9AA81 /* PullToRefreshTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1EB07891EA4C00700D9AA81 /* PullToRefreshTests.swift */; };
+		E1EB07951EA4CE7300D9AA81 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1EB07941EA4CE7300D9AA81 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		E1EB07851EA4C00700D9AA81 /* PullToRefreshTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PullToRefreshTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1EB07891EA4C00700D9AA81 /* PullToRefreshTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PullToRefreshTests.swift; sourceTree = "<group>"; };
 		E1EB078B1EA4C00700D9AA81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1EB07941EA4CE7300D9AA81 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				E1EB077D1EA4C00700D9AA81 /* LaunchScreen.storyboard */,
 				E1EB07801EA4C00700D9AA81 /* Info.plist */,
 				E1EB07781EA4C00700D9AA81 /* PullToRefresh.xcdatamodeld */,
+				E1EB07941EA4CE7300D9AA81 /* TableViewController.swift */,
 			);
 			path = PullToRefresh;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 				E1EB07741EA4C00700D9AA81 /* ViewController.swift in Sources */,
 				E1EB077A1EA4C00700D9AA81 /* PullToRefresh.xcdatamodeld in Sources */,
 				E1EB07721EA4C00700D9AA81 /* AppDelegate.swift in Sources */,
+				E1EB07951EA4CE7300D9AA81 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
